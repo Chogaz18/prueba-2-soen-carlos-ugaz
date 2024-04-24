@@ -7,3 +7,7 @@
 .o-container--task{
     min-height: 300px;
 }
+
+.text-checked {
+    text-decoration: line-through; color: gray;
+}
